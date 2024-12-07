@@ -1,0 +1,11 @@
+Model Information:
+* title:	castle
+* source:	https://sketchfab.com/3d-models/castle-be49044bc4a84d4d859f5df95ea3293d
+* author:	SravaniPeethala (https://sketchfab.com/SravaniPeethala)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "castle" (https://sketchfab.com/3d-models/castle-be49044bc4a84d4d859f5df95ea3293d) by SravaniPeethala (https://sketchfab.com/SravaniPeethala) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
